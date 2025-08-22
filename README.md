@@ -109,13 +109,6 @@ A: 减少 frames 数量或降低 quality 设置。
 - 使用的参数设置
 - 系统信息
 
-## 更新日志
-
-### v1.0.0 (2024-01-XX)
-- 🎉 初始版本发布
-- ✨ 支持基础扫光效果
-- 🚀 GPU 加速支持
-- 🎨 自定义颜色支持
 
 ## 贡献指南
 
@@ -138,6 +131,7 @@ MIT License - 详见 [LICENSE](https://github.com/BEIBEI-star661/SJ_sweepEffect_
 
 
 **如果这个节点对您有帮助，请给个 ⭐ Star！**
+
 
 
 
