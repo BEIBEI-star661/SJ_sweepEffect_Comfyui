@@ -1,4 +1,4 @@
-# SJ Sweep Effect Node for ComfyUI
+# SJ_SweepEffect_ComfyUI
 
 一个专为 ComfyUI 设计的高质量扫光特效节点，支持多种参数调节和抗锯齿处理。
 
@@ -140,5 +140,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 感谢 ComfyUI 社区的支持和反馈！
 
 ---
+
 
 **如果这个节点对您有帮助，请给个 ⭐ Star！**
