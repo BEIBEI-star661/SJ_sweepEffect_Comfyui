@@ -128,7 +128,7 @@ A: 减少 frames 数量或降低 quality 设置。
 
 ## 许可证
 
-MIT License - 详见 [LICENSE](LICENSE) 文件
+MIT License - 详见 [LICENSE](https://github.com/BEIBEI-star661/SJ_sweepEffect_Comfyui/blob/main/LICENSE.txt) 文件
 
 ## 致谢
 
@@ -138,4 +138,5 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 
 **如果这个节点对您有帮助，请给个 ⭐ Star！**
+
 
