@@ -13,16 +13,11 @@
 
 ## 安装方法
 
-### 方法一：ComfyUI Manager 安装（推荐）
-1. 打开 ComfyUI Manager
-2. 搜索 "SJ_sweepEffect"
-3. 点击安装
-
-### 方法二：手动安装
+### 方法一：手动安装
 1. 克隆仓库到 ComfyUI 的 custom_nodes 目录：
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your_username/SJ_sweepEffect.git
+git clone https://github.com/BEIBEI-star661/SJ_sweepEffect_Comfyui.git
 ```
 
 2. 安装依赖：
@@ -108,7 +103,7 @@ A: 检查是否启用了 CUDA，或将 quality 设置为 "low"。
 A: 减少 frames 数量或降低 quality 设置。
 
 ### 错误报告
-如果遇到问题，请在 [GitHub Issues](https://github.com/your_username/SJ_sweepEffect/issues) 提交报告，包含：
+如果遇到问题，请在 [GitHub Issues](https://github.com/BEIBEI-star661/SJ_sweepEffect_Comfyui/issues) 提交报告，包含：
 - ComfyUI 版本
 - 错误信息
 - 使用的参数设置
@@ -143,3 +138,4 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 
 **如果这个节点对您有帮助，请给个 ⭐ Star！**
+
